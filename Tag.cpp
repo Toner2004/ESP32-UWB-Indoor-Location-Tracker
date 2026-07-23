@@ -1,4 +1,7 @@
 /*
+The tag node is responsible for performing two-way ranging with nearby anchors and transmitting distance 
+measurements to the host system. The firmware configures the DW3000 UWB transceiver, initializes the OLED display,
+and interfaces with the MakerFab AT command firmware over UART.
 ESP32-S3 UWB Tag Firmware
 MakerFab MaUWB ESP32S3 + DW3000
 
