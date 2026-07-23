@@ -9,7 +9,7 @@ Real-time indoor positioning system using Ultra-Wideband (UWB), ESP32-S3, and Py
 Traditional GPS systems experience significant accuracy degradation indoors due to signal attenuation and multipath effects. This project demonstrates an indoor localization system using Ultra-Wideband (UWB) technology and a three-anchor architecture to achieve high-accuracy positioning.
 
 <p align="center">
-  <img src="YOUR-PLOT-IMAGE-LINK" width="700">
+  <img width="450" alt="Image (2)" src="https://github.com/user-attachments/assets/7446f019-2fb9-4378-aecf-82c7fecc768e" />
 </p>
 
 The Python application calculates the tag's XY coordinates using trilateration and displays position updates in real time. Historical position data is shown to visualize movement throughout the tracking area.
