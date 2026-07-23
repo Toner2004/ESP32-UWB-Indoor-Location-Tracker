@@ -8,6 +8,12 @@ Real-time indoor positioning system using Ultra-Wideband (UWB), ESP32-S3, and Py
 
 Traditional GPS systems experience significant accuracy degradation indoors due to signal attenuation and multipath effects. This project demonstrates an indoor localization system using Ultra-Wideband (UWB) technology and a three-anchor architecture to achieve high-accuracy positioning.
 
+<p align="center">
+  <img src="YOUR-PLOT-IMAGE-LINK" width="700">
+</p>
+
+The Python application calculates the tag's XY coordinates using trilateration and displays position updates in real time. Historical position data is shown to visualize movement throughout the tracking area.
+
 ### Project Highlights
 
 - 3 Fixed UWB Anchors
@@ -22,20 +28,14 @@ Traditional GPS systems experience significant accuracy degradation indoors due 
 ## Hardware Prototype
 
 <p align="center">
+<img width="450"  alt="image" src="https://github.com/user-attachments/assets/8824815a-f645-478c-9003-a3f6673fedb9" />
+</p>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/cfc13495-5625-4653-baae-b7375379653a" width="550">
 </p>
 
 The system consists of four MakerFab UWB development boards configured as one mobile tracking tag and three fixed anchors. Distance measurements are collected using UWB ranging and transmitted to a host computer for position calculation and visualization.
-
----
-
-## Tracking Visualization
-
-<p align="center">
-  <img src="YOUR-PLOT-IMAGE-LINK" width="700">
-</p>
-
-The Python application calculates the tag's XY coordinates using trilateration and displays position updates in real time. Historical position data is shown to visualize movement throughout the tracking area.
 
 ---
 
@@ -62,17 +62,21 @@ The Python application calculates the tag's XY coordinates using trilateration a
 <p align="center">
 <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/bc65d8cc-df3c-49e1-a864-3b73bb3b4c4d" />
 </p>
+
 <p align="center">
-<img width="717" height="691" alt="image" src="https://github.com/user-attachments/assets/0ffc220c-64c6-4e36-b965-6adf4946c4b8" />
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/0ffc220c-64c6-4e36-b965-6adf4946c4b8" />
 </p>
+
 ### Rear View
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a8db6bdf-002b-4d37-a67b-e771ec66a8eb" width="450">
 </p>
+
 <p align="center">
 <img width="396" height="429" alt="image" src="https://github.com/user-attachments/assets/88153422-e370-4b6e-bc25-d37f85ddb9a0" />
 </p>
+
 A custom enclosure was designed to protect the mobile tracking hardware while maintaining portability and accessibility to charging and display interfaces.
 
 ---
