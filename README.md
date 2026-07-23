@@ -15,6 +15,7 @@ The system consists of:
 - ESP32-S3 + DW3000 UWB hardware
 - Python visualization software
 - Custom enclosure design
+<img width="1045" height="1107" alt="Image (2)" src="https://github.com/user-attachments/assets/cfc13495-5625-4653-baae-b7375379653a" />
 
 ---
 
@@ -30,11 +31,11 @@ The system consists of:
 
 Front View
 
-(Add CAD Front Render Here)
+<img width="1626" height="1339" alt="Image (4)" src="https://github.com/user-attachments/assets/7fbdb8f2-27fb-4e7e-9e67-0b6fbd053055" />
 
 Rear View
 
-(Add CAD Rear Render Here)
+<img width="1626" height="1339" alt="Image (3)" src="https://github.com/user-attachments/assets/a8db6bdf-002b-4d37-a67b-e771ec66a8eb" />
 
 ---
 
