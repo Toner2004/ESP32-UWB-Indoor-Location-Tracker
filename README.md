@@ -86,8 +86,6 @@ The system consists of four MakerFab UWB development boards configured as one mo
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a8db6bdf-002b-4d37-a67b-e771ec66a8eb" width="350">
 
-
-<p align="center">
 <img width="350"  alt="image" src="https://github.com/user-attachments/assets/88153422-e370-4b6e-bc25-d37f85ddb9a0" />
 </p>
 
