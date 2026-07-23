@@ -31,9 +31,6 @@ The Python application calculates the tag's XY coordinates using trilateration a
 <img width="450"  alt="image" src="https://github.com/user-attachments/assets/8824815a-f645-478c-9003-a3f6673fedb9" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cfc13495-5625-4653-baae-b7375379653a" width="550">
-</p>
 
 The system consists of four MakerFab UWB development boards configured as one mobile tracking tag and three fixed anchors. Distance measurements are collected using UWB ranging and transmitted to a host computer for position calculation and visualization.
 
