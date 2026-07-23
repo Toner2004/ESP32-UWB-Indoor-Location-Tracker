@@ -59,12 +59,20 @@ The Python application calculates the tag's XY coordinates using trilateration a
   <img src="https://github.com/user-attachments/assets/7fbdb8f2-27fb-4e7e-9e67-0b6fbd053055" width="450">
 </p>
 
+<p align="center">
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/bc65d8cc-df3c-49e1-a864-3b73bb3b4c4d" />
+</p>
+<p align="center">
+<img width="717" height="691" alt="image" src="https://github.com/user-attachments/assets/0ffc220c-64c6-4e36-b965-6adf4946c4b8" />
+</p>
 ### Rear View
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a8db6bdf-002b-4d37-a67b-e771ec66a8eb" width="450">
 </p>
-
+<p align="center">
+<img width="396" height="429" alt="image" src="https://github.com/user-attachments/assets/88153422-e370-4b6e-bc25-d37f85ddb9a0" />
+</p>
 A custom enclosure was designed to protect the mobile tracking hardware while maintaining portability and accessibility to charging and display interfaces.
 
 ---
